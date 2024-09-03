@@ -14,7 +14,7 @@ public class ApplicationWithCustomFinderAndCustomQuery {
 
 	public static void main(String[] args) {
 
-		// for more follow the link
+		// for more follow the link below
 		// https://docs.spring.io/spring-data/jpa/docs/current-SNAPSHOT/reference/html/#jpa.query-methods.query-creation
 
 		ApplicationContext context = SpringApplication.run(ApplicationWithCustomFinderAndCustomQuery.class, args);
